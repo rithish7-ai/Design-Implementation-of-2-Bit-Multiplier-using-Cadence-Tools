@@ -11,7 +11,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ### Process Design Kit (PDK)
 - CMOS technology library
 
-### Computer System
+# Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
 
 ## Procedure
